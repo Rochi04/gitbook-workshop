@@ -1,6 +1,6 @@
 # Users API
 
-
+Here are the REST API endpoints for working with Users:
 
 {% swagger src=".gitbook/assets/users.json" path="/user" method="post" %}
 [users.json](.gitbook/assets/users.json)
