@@ -2,6 +2,7 @@
 
 * [Midjourney Documentation](README.md)
 * [User Manual](user-manual.md)
+* [Users API](users-api.md)
 * [Frequently Asked Questions](FAQs.md)
 * [Imagine Parameters Illustrated](imagine-parameters.md)
 * [The Midjourney Web App](web-app.md)
