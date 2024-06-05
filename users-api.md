@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1501386761578-eac5c94b800a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxhdWRpZW5jZXxlbnwwfHx8fDE3MTc1ODI4MTd8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Users API
 
 Here are the REST API endpoints for working with Users:
